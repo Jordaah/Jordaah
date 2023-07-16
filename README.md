@@ -14,5 +14,4 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/k4ir0.png" alt="TryHackMe">
 </HTML>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaah&show_icons=true&theme=radical)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tyz6y357cpsagk7pir4b4jiowa)
