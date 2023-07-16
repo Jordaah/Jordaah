@@ -13,3 +13,6 @@
 <HTML> 
   <img src="https://tryhackme-badges.s3.amazonaws.com/k4ir0.png" alt="TryHackMe">
 </HTML>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaah)](https://github.com/anuraghazra/github-readme-stats)
