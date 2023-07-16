@@ -2,9 +2,8 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Reverse Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on any project
+- 🍵 I like drink tea
 - 📫 How to reach me:
 
   <a href="https://www.instagram.com/hwaisplunt"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="50" height="50"/></a>
