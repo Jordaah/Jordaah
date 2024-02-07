@@ -5,8 +5,7 @@
   
 💻 TryHackMe:
 <HTML> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Jordaah.png" alt="TryHackMe">
-
+    <script src="https://tryhackme.com/badge/360180"></script>
 </HTML>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tyz6y357cpsagk7pir4b4jiowa)
