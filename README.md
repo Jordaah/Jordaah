@@ -5,5 +5,5 @@
   
 💻 <a href="https://tryhackme.com/p/Jordaah">TryHackMe:</a>
 <HTML> 
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Jordaah.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jordaah.png" alt="TryHackMe">
 </HTML>
