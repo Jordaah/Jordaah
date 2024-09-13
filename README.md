@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Jordaah 🏴</h1>
   <h3><i>~ MCMXLVII 🥀 ~</i></h3>
-  <img src="">
+  <img src="https://imgur.com/gallery/ghibli-movie-castle-sky-banner-P7KiWaA"
 </div>
 <div align="center">
 <h2>Programming languages</h2>
