@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Jordaah 🏴</h1>
   <h3><i>~ MCMXLVII 🥀 ~</i></h3>
-  <img src="https://i.imgur.com/KxzOUcl.png">
+  <img src="">
 </div>
 <div align="center">
 <h2>Programming languages</h2>
