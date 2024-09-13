@@ -10,6 +10,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,windows">
   <h2>Tools</h2>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tomcat,sublime,chromium,wsl,vscode,word,animate">
-  <h2>Socials</h2>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,instagram,x"
+  <h2><strong>Socials</strong></h2>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,instagram,x">
 </div>
