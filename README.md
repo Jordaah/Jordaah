@@ -11,5 +11,5 @@
   <h2><strong>Tools</strong></h2>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tomcat,sublime,chromium,wsl,vscode,word,animate">
   <h2><strong>Socials</strong></h2>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,instagram,x,spotify">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord,instagram,x">
 </div>
