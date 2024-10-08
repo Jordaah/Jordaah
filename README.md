@@ -3,6 +3,7 @@
   <h3><i>~ MCMXLVII 🥀 ~</i></h3>
 </div>
 <div align="center">
+<img src="">
 <h2><strong>Programming languages</strong></h2>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,html,css,javascript">
   <h2><strong>Systems</strong></h2>
